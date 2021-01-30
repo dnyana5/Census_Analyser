@@ -1,9 +1,9 @@
-censusanalyser/IndiaCensusCSV.java
- censusanalyser.IndiaCensusCSV
+censusanalyser/IndiaStateCodeCSV.java
+ censusanalyser.IndiaStateCodeCSV
 censusanalyser/CensusAnalyserException.java
  censusanalyser.CensusAnalyserException
  censusanalyser.CensusAnalyserException$ExceptionType
-censusanalyser/IndiaStateCodeCSV.java
- censusanalyser.IndiaStateCodeCSV
+censusanalyser/IndiaCensusCSV.java
+ censusanalyser.IndiaCensusCSV
 censusanalyser/CensusAnalyser.java
  censusanalyser.CensusAnalyser
