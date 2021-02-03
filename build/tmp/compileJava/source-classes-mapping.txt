@@ -5,6 +5,13 @@ censusanalyser/IndiaCensusCSV.java
 censusanalyser/CensusAnalyserException.java
  censusanalyser.CensusAnalyserException
  censusanalyser.CensusAnalyserException$ExceptionType
+<<<<<<< HEAD
+=======
+censusanalyser/IndiaCensusCSV.java
+ censusanalyser.IndiaCensusCSV
+censusanalyser/CensusAnalyser.java
+ censusanalyser.CensusAnalyser
+>>>>>>> f97c193544b9825cde3123929c687fa5db9a34d6
 censusanalyser/ICSVBuilder.java
  censusanalyser.ICSVBuilder
 censusanalyser/CSVBuilderFactory.java

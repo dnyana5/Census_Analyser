@@ -7,6 +7,7 @@ import java.io.Reader;
 import java.util.Iterator;
 import java.util.List;
 
+<<<<<<< HEAD
 public class OpenCSVBuilder <E> implements ICSVBuilder {
 
     @Override
@@ -22,6 +23,11 @@ public class OpenCSVBuilder <E> implements ICSVBuilder {
 
     private CsvToBean<E> getCSVBean(Reader reader, Class csvClass) throws CSVBuilderException {
 
+=======
+public class OpenCSVBuilder <E> implements ICSVBuilder{
+
+    public Iterator<E> getCSVFileIterator(Reader reader, Class csvClass) throws CensusAnalyserException {
+>>>>>>> f97c193544b9825cde3123929c687fa5db9a34d6
         try {
             CsvToBeanBuilder<E> csvToBeanBuilder = new CsvToBeanBuilder<>(reader);
             csvToBeanBuilder.withType(csvClass);
