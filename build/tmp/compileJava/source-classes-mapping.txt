@@ -1,25 +1,18 @@
 censusanalyser/IndiaStateCodeCSV.java
  censusanalyser.IndiaStateCodeCSV
-censusanalyser/IndiaCensusCSV.java
- censusanalyser.IndiaCensusCSV
-censusanalyser/CensusAnalyserException.java
- censusanalyser.CensusAnalyserException
- censusanalyser.CensusAnalyserException$ExceptionType
-<<<<<<< HEAD
-=======
-censusanalyser/IndiaCensusCSV.java
- censusanalyser.IndiaCensusCSV
-censusanalyser/CensusAnalyser.java
- censusanalyser.CensusAnalyser
->>>>>>> f97c193544b9825cde3123929c687fa5db9a34d6
+censusanalyser/CSVBuilderException.java
+ censusanalyser.CSVBuilderException
+ censusanalyser.CSVBuilderException$ExceptionType
 censusanalyser/ICSVBuilder.java
  censusanalyser.ICSVBuilder
 censusanalyser/CSVBuilderFactory.java
  censusanalyser.CSVBuilderFactory
 censusanalyser/OpenCSVBuilder.java
  censusanalyser.OpenCSVBuilder
-censusanalyser/CSVBuilderException.java
- censusanalyser.CSVBuilderException
- censusanalyser.CSVBuilderException$ExceptionType
+censusanalyser/IndiaCensusCSV.java
+ censusanalyser.IndiaCensusCSV
 censusanalyser/CensusAnalyser.java
  censusanalyser.CensusAnalyser
+censusanalyser/CensusAnalyserException.java
+ censusanalyser.CensusAnalyserException
+ censusanalyser.CensusAnalyserException$ExceptionType
